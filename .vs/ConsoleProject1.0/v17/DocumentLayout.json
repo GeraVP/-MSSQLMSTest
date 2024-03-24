@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\RobotComp.ru\\source\\repos\\ConsoleProject1.0\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B3992F4C-ADCF-45D4-B718-19D25C1D4507}|ConsoleProject1.0\\ConsoleProject1.0.csproj|c:\\users\\robotcomp.ru\\source\\repos\\consoleproject1.0\\consoleproject1.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3992F4C-ADCF-45D4-B718-19D25C1D4507}|ConsoleProject1.0\\ConsoleProject1.0.csproj|solutionrelative:consoleproject1.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\RobotComp.ru\\source\\repos\\ConsoleProject1.0\\ConsoleProject1.0\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleProject1.0\\Program.cs",
+              "ToolTip": "C:\\Users\\RobotComp.ru\\source\\repos\\ConsoleProject1.0\\ConsoleProject1.0\\Program.cs",
+              "RelativeToolTip": "ConsoleProject1.0\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T05:46:28.191Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
